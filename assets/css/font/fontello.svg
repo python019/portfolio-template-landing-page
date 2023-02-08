@@ -1,0 +1,26 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="cancel" unicode="&#xe800;" d="M724 112q0-22-15-38l-76-76q-16-15-38-15t-38 15l-164 165-164-165q-16-15-38-15t-38 15l-76 76q-16 16-16 38t16 38l164 164-164 164q-16 16-16 38t16 38l76 76q16 16 38 16t38-16l164-164 164 164q16 16 38 16t38-16l76-76q15-15 15-38t-15-38l-164-164 164-164q15-15 15-38z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="cancel-1" unicode="&#xe801;" d="M452 194q18-18 18-43t-18-43q-18-16-43-16t-43 16l-132 152-132-152q-18-16-43-16t-43 16q-16 18-16 43t16 43l138 156-138 158q-16 18-16 43t16 43q18 16 43 16t43-16l132-152 132 152q18 16 43 16t43-16q18-18 18-43t-18-43l-138-158z" horiz-adv-x="470" />
+
+<glyph glyph-name="cancel-2" unicode="&#xe802;" d="M596 632q32-31 32-74t-32-74l-135-135 135-135q32-31 32-73t-32-74q-30-30-73-30t-74 30l-135 135-135-135q-30-30-74-30t-74 30q-31 31-31 74t31 73l135 135-135 135q-31 32-31 74t31 74q30 31 74 31t74-31l135-135 135 135q30 31 74 31t73-31z" horiz-adv-x="628" />
+
+<glyph glyph-name="cancel-3" unicode="&#xe803;" d="M799 116l-156-157-234 235-235-235-156 157 234 234-234 234 156 157 235-235 234 235 156-157-234-234z" horiz-adv-x="817" />
+
+<glyph glyph-name="cancel-4" unicode="&#xe804;" d="M123 654l181-181 181 181 123-124-182-178 183-184-124-121-181 182-181-182-123 122 183 183-182 178z" horiz-adv-x="609" />
+
+<glyph glyph-name="cancel-5" unicode="&#xe805;" d="M0 90q0 36 26 62l195 195-195 196q-26 25-26 61t26 61 61 25 61-25l196-196 195 196q25 25 61 25t61-25 25-61-25-61l-195-196 195-195q25-26 25-62t-25-61q-25-25-61-25t-61 25l-195 195-196-195q-25-25-61-25t-61 25q-26 26-26 61z" horiz-adv-x="686.5" />
+
+<glyph glyph-name="cancel-6" unicode="&#xe806;" d="M0 71l279 279-279 279 221 221 279-279 279 279 221-221-279-279 279-279-221-221-279 279-279-279z" horiz-adv-x="1000" />
+
+<glyph glyph-name="cancel-7" unicode="&#xe807;" d="M654 349l346-346-154-154-346 346-346-346-154 154 346 346-346 346 154 154 346-346 346 346 154-154z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
